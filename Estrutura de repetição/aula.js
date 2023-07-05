@@ -6,5 +6,5 @@ let numero = parseInt(prompt(`Digite o numero ${i}:`))
         break;
     }
 soma = soma + numero;
-}
+}   
 alert(soma)
